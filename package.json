@@ -1,0 +1,11 @@
+{
+  "name": "ajil",
+  "version": "0.2.11",
+  "description": "A client side javascript library to interoperate with ephect PHP library",
+  "repository": "https://github.com/ephect-io/javascripts.git",
+  "author": "David Blanchard <dpjb@hotmail.fr>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "pm2": "^4.4.0"
+  }
+}
